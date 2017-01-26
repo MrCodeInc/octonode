@@ -1,0 +1,18 @@
+{
+  "name": "octonode-mrcodeinc",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/mrcodeinc/octonode"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "MrCodeInc <mikenovellino100@gmailcom> (https://mrcodeinc.github.io)",
+  "license": "ISC"
+}
